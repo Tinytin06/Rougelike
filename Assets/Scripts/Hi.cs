@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 public class Hi {
     public int number;
-    Hi() {
+    public Hi() {
         int number = 0;
     }
 }

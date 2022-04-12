@@ -1,14 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using static Hi;
 
-public class NewBehaviourScript : MonoBehaviour
+public class RougeCharacterSpawner : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        Hi hi = new Hi();  
+        
     }
 
     // Update is called once per frame
